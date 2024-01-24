@@ -19,14 +19,8 @@ class SinglePortfolio extends Component {
                                 <Grid className="mt-45">
                                     <Grid container spacing={3}>
                                         <Grid item md={8} sm={7} xs={12} className="">
-                                            <h3>Project description in resume</h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa sed
-                                                saepe pariatur veritatis similique placeat nisi. Consequatur aut
-                                                voluptate, sint distinctio voluptatem dolores pariatur . Lorem ipsum
-                                                dolor sit amet, consectetur adipisicing elit. Provident earum nisi
-                                                aliquid aliquam eveniet quis, eos, eligendi veniam recusandae
-                                                nostrum similique maiores accusantium nemo exercitationem ut dolorem
-                                                non omnis reprehenderit.</p>
+                                            <h3>Test Project</h3>
+                                            <p>This is a test.</p>
                                         </Grid>
                                         <Hidden smDown>
                                             <Grid item md={1}></Grid>
