@@ -64,9 +64,9 @@ class Header extends Component {
                 <Grid className="top-header pl-75 pr-75 d-none d-md-block">
                     <Grid container spacing={3} alignItems="center">
                         <Grid item lg={8} md={9} xs={12} className="top-bar-left">
-                            <span><i className="fas fa-phone"></i> +123 365 585</span>
-                            <span><i className="fas fa-phone"></i> hammer@gmailcom</span>
-                            <span><i className="fas fa-clock"></i> SUN-MON, 9:45AM </span>
+                            <span><i className="fas fa-phone"></i> +1 (201) 844-5486</span>
+                            <span><i className="fas fa-phone"></i> darragh@osdbuilders.com</span>
+                            <span><i className="fas fa-clock"></i> Mon-Friday, 9:00AM - 5:30PM ET </span>
                         </Grid>
                         <Grid className="col-lg-4 col-md-3 text-md-right">
                             <Grid className="social-profile">

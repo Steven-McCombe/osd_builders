@@ -24,11 +24,10 @@ class HeroSlider extends Component {
                               style={{backgroundImage: `url(${SliderImage1})`}}>
                             <Grid container spacing={3} className="sLider-grid-item customGridwidth websitePadding">
                                 <Grid item lg={12} xs={12} md={12} className="customGridwidth">
-                                    <span>WE MAKE</span>
-                                    <h1>Dream House</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa
-                                        dicta<br/> sapiente, quo in minus nostrum praesentium quidem.</p>
-                                    <a href="javascript:" className="theme_btn get_start">Get details</a>
+                                    <span></span>
+                                    <h1>Building the Future</h1>
+                                    <p>At OSD Builders, we turn architectural dreams into reality. Witness our craftsmanship in our successful projects.</p>
+                                    <a href="javascript:" className="theme_btn get_start">Explore our projects</a>
                                 </Grid>
                             </Grid>
                             <Grid className="slide-img d-none d-lg-block">
@@ -43,11 +42,10 @@ class HeroSlider extends Component {
                               style={{backgroundImage: `url(${SliderImage1})`}}>
                             <Grid container spacing={3} className="sLider-grid-item websitePadding">
                                 <Grid item lg={12} className="text-center">
-                                    <span>WE MAKE</span>
-                                    <h1>Dream House</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa
-                                        dicta<br/> sapiente, quo in minus nostrum praesentium quidem.</p>
-                                    <a href="javascript:" className="theme_btn get_start">Get details</a>
+                                    <span></span>
+                                    <h1>Building Trust, One Project at a Time</h1>
+                                    <p>Your satisfaction is our blueprint. Join the multitude of happy clients who chose OSD Builders for their construction needs.</p>
+                                    <a href="javascript:" className="theme_btn get_start">Read Client Testimonials</a>
                                 </Grid>
                             </Grid>
                         </Grid>
@@ -62,11 +60,10 @@ class HeroSlider extends Component {
                                     <img src={SliderManImage1} alt=""/>
                                 </Grid>
                                 <Grid item lg={12} className="text-right">
-                                    <span>WE MAKE</span>
-                                    <h1>Dream House</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa dicta <br/>sapiente,
-                                        quo in minus nostrum praesentium quidem.</p>
-                                    <a href="javascript:" className="theme_btn get_start">Get details</a>
+                                    <span></span>
+                                    <h1>Experience Meets Innovation</h1>
+                                    <p>With over 12 in the industry, we blend time-tested techniques with innovative solutions to deliver exceptional quality.</p>
+                                    <a href="javascript:" className="theme_btn get_start">Learn About Us</a>
                                 </Grid>
                             </Grid>
                         </Grid>
