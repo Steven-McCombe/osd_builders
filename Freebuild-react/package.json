@@ -51,10 +51,11 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "engines": {
-      "node": "14.21.3"
-    }
+    ]
+
     
+  },
+  "engines": {
+    "node": "14.21.3"
   }
 }
