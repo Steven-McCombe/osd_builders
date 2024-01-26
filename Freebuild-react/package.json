@@ -33,6 +33,7 @@
     "waypoints": "^4.0.1"
   },
   "scripts": {
+    "heroku-postbuild": "cd Freebuild-react && npm install && npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
