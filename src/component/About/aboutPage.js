@@ -4,7 +4,7 @@ import HeroArea from "./HeroArea";
 import AboutFeatured from "./AboutFeatured";
 import FAQ from "../Home1/FAQ";
 import Testimonial from "../Home2/Testimonial";
-
+//
 class aboutPage extends Component{
     render() {
         return(
